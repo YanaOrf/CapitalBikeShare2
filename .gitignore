@@ -1,2 +1,4 @@
 *.csv
 CapitalBike_EDA.ipynb
+*.txt
+*.xlsx
